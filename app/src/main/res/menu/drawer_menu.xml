@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/navglobal"
+        android:title="Noticias del Mundo"
+        android:icon="@drawable/ic_global" />
+
+
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:title="Categorías">
+                <menu>
+
+                <item
+                    android:id="@+id/nav_deportes"
+                    android:title="Deportes"
+                    android:icon="@drawable/ic_deportes"/>
+                <item
+                    android:id="@+id/nav_ciencia"
+                    android:title="Ciencia"
+                    android:icon="@drawable/ic_salud"/>
+                <item
+                    android:id="@+id/nav_negocios"
+                    android:title="Negocios"
+                    android:icon="@drawable/ic_economy"/>
+
+        </menu>
+    </item>
+   </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Configuraciones">
+            <menu>
+                <item
+                    android:id="@+id/navIdioma"
+                    android:title="Idioma"
+                    android:icon="@drawable/ic_baseline_language_24"/>
+            </menu>
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Sesion">
+            <menu>
+                <item
+                    android:id="@+id/salir"
+                    android:title="Cerrar Sesion"
+                    android:icon="@drawable/ic_exit"/>
+            </menu>
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_actualizarboton.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_arte_24.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.253" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_buscar.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_buscarw.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_deportes.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_economy.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_exit.xml" value="0.253" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_games.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_global.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_registro.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_salud.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_sharew.xml" value="0.1335" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/ic_viajes.xml" value="0.143" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/noimage.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/sin_imagen.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/stylo_borde_cajatxt.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/drawable/sylo_borde.xml" value="0.1" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_login_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_noticia_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_noticias_generales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_registro.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/activity_registro_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag__home__noticias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_ciencia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_deportes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_home_noticia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_home_noticias.xml" value="0.22" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_idioma_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_negocio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_negocios.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/fragment_frag_noticas_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/items.xml" value="0.22" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/menu/drawer_menu.xml" value="0.22" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/menu/menu_config.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/casa/Desktop/trabajofinal/trabajo_final/EjercicioFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.251" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
